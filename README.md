@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SP047
-- 👀 I’m interested in Web,Game Development & Ethical Hacking
+- 👀 I’m interested in Web,Game & App Development & Ethical Hacking
 - 🌱 I’m currently learning Full-stack Web Dev
 - 💞️ I’m looking to collaborate on any projects that I can help on
 - 📫 How to reach me : email- patelshahid623@gmail.com
